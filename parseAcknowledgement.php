@@ -1,6 +1,7 @@
 <?php
         /*
-            Script om topdesk meldingen automatich in natios op acknowledged te zetten (alleen handig als nagios ook atomatich topdesk meldingen aan maakt door middel van import funtie)
+            Script om topdesk meldingen automatich in natios op acknowledged te zetten.
+	    (alleen handig als nagios ook atomatich topdesk meldingen aan maakt door middel van import funtie)
             
             In Topdesk een Niewe POST regel aanmaken met het onderstaande bericht:
             <?xml version="1.0" encoding="UTF-8"?>
